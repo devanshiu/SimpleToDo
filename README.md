@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/devanshiu/SimpleToDo/blob/master/simple-todo-demo.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/devanshiu/SimpleToDo/blob/master/simple-to-do-take-2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
